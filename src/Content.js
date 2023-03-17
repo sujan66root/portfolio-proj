@@ -13,9 +13,9 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 
-import project1 from "./assets/images/projects/food.jpg";
-import project2 from "./assets/images/projects/ecommerce.jpg";
-import project3 from "./assets/images/projects/chat.jpg";
+import project1 from "./assets/images/Projects/food.jpg";
+import project2 from "./assets/images/Projects/ecommerce.jpg";
+import project3 from "./assets/images/Projects/chat.jpg";
 // import person_project from "./assets/images/projects/person.png";
 
 // import icons from react-icons
