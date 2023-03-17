@@ -28,8 +28,8 @@ const App = () => {
       <Contact />
       <footer className="p-3 text-center">
         <h6 className="mb-3">SUJAN GAUTAM</h6>
-        <p>Build with React and Vite JS</p>
-        <p>Hosted with Netlify ©CopyRights 2022</p>
+        <p>Build with React, Vite JS and Tailwind</p>
+        <p>Hosted with Netlify ©CopyRights 2023</p>
       </footer>
     </div>
   );
