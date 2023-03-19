@@ -121,7 +121,7 @@ export const content = {
         para1: "- Maintenance and Development of QMS Project",
         para2: "- Real Time Projects and Dashboards",
         logo: services_logo1,
-        date: "December 2021 - March 2022"
+        date: "December 2021 - March 2023"
       },
       {
         company: "Real Time Solutions Pvt Ltd",
